@@ -1,4 +1,4 @@
-# 
+# 最佳 birdeye sniper bot 预设 Mac OS版 | 高级 birdeye sniper bot 预设 PC Windows版。集成 DEX路由器集成 和 实时数据源，跨平台性能最大化。
 
 
 
